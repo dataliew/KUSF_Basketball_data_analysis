@@ -20,7 +20,7 @@ The data was scarped from KUSF homepage. It contains every players' matches, sco
 # Data Analysis & Visualization
 
 - Perforemd data analysis based on each year(2020-2022) and divisions(Mid & South) using matplotlib.pyplot
-![alt text]
+<img src="https://github.com/jaeliew/jaeliew/blob/main/KUSF_Basketball_data_analysis/Stat%20by%20Years.png?raw=true">
 
 - Performed correlation of scores & 2pts/3pts using matplotlib.pyplot
 
