@@ -1,5 +1,5 @@
 # KUSF_Basketball_data_analysis
-Analyzing KUSF(Korea University Sport Federation) Basketball dataset where I was champion in 2021. I scraped basketball data from KUSF website. Then preprocessed the data and performed analysis based on year and divison. Also, analyzed correlation between scores and other stats such as 2pts & 3pts
+Analyzing KUSF(Korea University Sport Federation) Basketball dataset which I won the championsihp and awarded MVP in 2022. I scraped basketball data from KUSF website. Then preprocessed the data and performed analysis based on year and divison. Also, analyzed correlation between scores and other stats such as 2pts & 3pts
 
 # Codes and Resources used
 
